@@ -1,0 +1,11 @@
+product_id,product_name,category,stock,reorder_level,unit_price,units_sold
+P001,Wireless Mouse,Electronics,45,20,599,120
+P002,USB-C Cable,Electronics,8,15,299,340
+P003,Notebook A5,Stationery,120,30,99,80
+P004,Ballpoint Pen Pack,Stationery,5,25,149,200
+P005,Desk Lamp,Electronics,22,10,1299,60
+P006,Sticky Notes,Stationery,200,50,49,150
+P007,Laptop Stand,Electronics,3,10,1999,45
+P008,Highlighter Set,Stationery,60,20,199,95
+P009,Webcam HD,Electronics,12,8,2499,30
+P010,Stapler,Stationery,35,15,399,40
